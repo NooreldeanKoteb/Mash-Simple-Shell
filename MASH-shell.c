@@ -1,8 +1,5 @@
-/* This is the only file you should update and submit. */
-
-/* Fill in your Name and GNumber in the following two comment fields
+/*
  * Name: Nooreldean Koteb
- * GNumber: 01085380
  */
 
 #include "logging.h"
